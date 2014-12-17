@@ -1,11 +1,11 @@
 {
-  "name": "starterplugin",
+  "name": "snow",
   "version": "0.1.0",
-  "description": "starter plugin",
+  "description": "snow",
   "readme": "README.md",
   "repository" : {
     "type" : "git",
-    "url" : "http://gitlab.corp.intuit.net/qboplugins/starterplugin.git"
+    "url" : "https://github.com/brewer531/snow.git"
   },
   "dependencies": {
     "express": "4.9.x",
